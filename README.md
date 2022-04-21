@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @K1NNG0
-- 🌱 I’m currently learning Batch and Python
+## Oiii eu sou a K1NNG0!
 
-<!---
-K1NNG0/K1NNG0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://github.com/K1NNG0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K1NNG0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1NNG0&layout=compact&langs_count=7&theme=dracula"/>
+</div>
