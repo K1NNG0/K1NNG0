@@ -1,4 +1,4 @@
-## Oi eu sou a K1NNG0!
+## Oi eu sou o K1NNG0!
 
 <div align="center">
   <a href="https://github.com/K1NNG0">
